@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @zedogg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zedogg/zedogg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @zedog
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Advance Python
+- 💞️ I’m looking to collaborate on developing custom api's
+- 📫  reach me by phone at 8219383324 or email at Karanid420@gmail.com
